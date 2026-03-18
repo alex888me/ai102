@@ -11,3 +11,5 @@ project_client = AIProjectClient(
 )
 
 print("Got token:", token.token[:20], "...")
+
+
