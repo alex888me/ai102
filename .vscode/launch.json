@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: training1.module3.project_client",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training1.module3.project_client",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal"
+    }
+  ]
+}

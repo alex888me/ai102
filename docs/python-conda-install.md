@@ -40,3 +40,15 @@ After creating the environment, activate it with:
 ```bash
 conda activate py314
 ```
+
+Next, install the `azure-ai-projects` Python module in this environment:
+
+```bash
+pip install azure-ai-projects
+```
+
+To install `python-dotenv` in the same environment, run:
+
+```bash
+pip install python-dotenv
+```
