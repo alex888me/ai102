@@ -24,6 +24,14 @@
       "module": "training1.module3.chat_client",
       "cwd": "${workspaceFolder}/src",
       "console": "integratedTerminal"
+    },
+    {
+      "name": "training1.module5.ai_app_uses_tools",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training1.module5.ai_app_uses_tools",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal"
     }
   ]
 }

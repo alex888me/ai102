@@ -1,1 +1,5 @@
 PROJECT_ENDPOINT="https://....ai.azure.com/..."
+AZURE_OPENAI_ENDPOINT="https://....openai.azure.com/openai/..."
+API_KEY="..."
+PATH_BROCHURES=".../brochures"
+MODEL_DEPLOYMENT="modele name + version"
