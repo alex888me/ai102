@@ -31,7 +31,15 @@
       "request": "launch",
       "module": "training1.module5.ai_app_uses_tools",
       "cwd": "${workspaceFolder}/src",
-      "console": "integratedTerminal"
+      "console": "integratedTerminal" 
+    },
+    {
+      "name": "training2.module4.agent",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training2.module4.agent",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
     }
   ]
 }
