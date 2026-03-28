@@ -40,6 +40,14 @@
       "module": "training2.module4.agent",
       "cwd": "${workspaceFolder}/src",
       "console": "integratedTerminal" 
+    },
+    {
+      "name": "training2.module5.agent",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training2.module5.agent",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
     }
   ]
 }
