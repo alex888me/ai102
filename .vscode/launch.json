@@ -72,6 +72,14 @@
       "module": "training2.module7.agent-framework",
       "cwd": "${workspaceFolder}/src",
       "console": "integratedTerminal" 
+    },
+    {
+      "name": "training2.module8.agents",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training2.module8.agents",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
     }
   ]
 }
