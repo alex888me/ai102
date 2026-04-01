@@ -80,6 +80,14 @@
       "module": "training2.module8.agents",
       "cwd": "${workspaceFolder}/src",
       "console": "integratedTerminal" 
+    },
+    {
+      "name": "training2.module9.run_all",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/training2/module9/run_all.py",
+      "cwd": "${workspaceFolder}/src/training2/module9",
+      "console": "integratedTerminal"
     }
   ]
 }
