@@ -88,6 +88,38 @@
       "program": "${workspaceFolder}/src/training2/module9/run_all.py",
       "cwd": "${workspaceFolder}/src/training2/module9",
       "console": "integratedTerminal"
+    },
+    {
+      "name": "training3.module1.detect_language",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training3.module1.detect_language",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
+    },
+    {
+      "name": "training3.module1.extract_entities",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training3.module1.extract_entities",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
+    },    
+    {
+      "name": "training3.module1.extract_pii",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training3.module1.extract_pii",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
+    },
+    {
+      "name": "training3.module1.text-analysis",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training3.module1.text-analysis",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
     }
   ]
 }

@@ -1,5 +1,7 @@
 PROJECT_ENDPOINT="https://....ai.azure.com/..."
 AZURE_OPENAI_ENDPOINT="https://....openai.azure.com/openai/..."
+RECOURCE_ENDPOINT="https://....services.ai.azure.com"
+FOUNDRY_ENDPOINT="https://....services.ai.azure.com"
 API_KEY="..."
 PATH_BROCHURES=".../brochures"
 MODEL_DEPLOYMENT="modele name + version"
@@ -8,3 +10,4 @@ SERVER_URL="..."
 ROUTING_AGENT_PORT="..."
 OUTLINE_AGENT_PORT="..."
 TITLE_AGENT_PORT="..."
+# RECOURCE_ENDPOINT==FOUNDRY_ENDPOINT  MODEL_DEPLOYMENT==MODEL_DEPLOYMENT_NAME
