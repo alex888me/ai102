@@ -120,6 +120,14 @@
       "module": "training3.module1.text-analysis",
       "cwd": "${workspaceFolder}/src",
       "console": "integratedTerminal" 
+    },
+    {
+      "name": "training3.module2.text-agent",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training3.module2.text-agent",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
     }
   ]
 }
