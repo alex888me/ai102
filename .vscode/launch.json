@@ -128,6 +128,22 @@
       "module": "training3.module2.text-agent",
       "cwd": "${workspaceFolder}/src",
       "console": "integratedTerminal" 
+    },
+    {
+      "name": "training3.module3.generate-speech",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training3.module3.generate-speech",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
+    },
+    {
+      "name": "training3.module3.transcribe-speech",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training3.module3.transcribe-speech",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
     }
   ]
 }
