@@ -144,6 +144,14 @@
       "module": "training3.module3.transcribe-speech",
       "cwd": "${workspaceFolder}/src",
       "console": "integratedTerminal" 
+    },
+    {
+      "name": "training3.module4.voice-mail",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training3.module4.voice-mail",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
     }
   ]
 }
