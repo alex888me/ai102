@@ -184,6 +184,14 @@
       "module": "training3.module7.translate-speech",
       "cwd": "${workspaceFolder}/src",
       "console": "integratedTerminal" 
+    },
+    {
+      "name": "training4.module1.image-chat-app",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training4.module1.image-chat-app",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
     }
   ]
 }
