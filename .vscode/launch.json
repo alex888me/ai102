@@ -168,6 +168,22 @@
       "module": "training3.module6.chat-client",
       "cwd": "${workspaceFolder}/src",
       "console": "integratedTerminal" 
+    },
+    {
+      "name": "training3.module7.translate-text",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training3.module7.translate-text",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
+    },
+    {
+      "name": "training3.module7.translate-speech",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training3.module7.translate-speech",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
     }
   ]
 }
