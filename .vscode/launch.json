@@ -208,6 +208,22 @@
       "module": "training4.module4.analyze-image",
       "cwd": "${workspaceFolder}/src",
       "console": "integratedTerminal" 
+    },
+    {
+      "name": "training5.module2.create-analyzer",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training5.module2.create-analyzer",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
+    },
+    {
+      "name": "training5.module2.read-card",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "training5.module2.read-card",
+      "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal" 
     }
   ]
 }
