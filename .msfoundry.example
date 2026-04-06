@@ -17,4 +17,5 @@ MODEL_NAME_TR="gpt-4o-mini-transcribe"
 AZURE_VOICELIVE_ENDPOINT="https://your_foundry_resource.services.ai.azure.com/"
 AZURE_VOICELIVE_PROJECT_NAME="your_project_name"
 AZURE_VOICELIVE_AGENT_ID="chat-agent"
+ANALYZER=your_analyzer_id
 # RECOURCE_ENDPOINT==FOUNDRY_ENDPOINT  MODEL_DEPLOYMENT==MODEL_DEPLOYMENT_NAME
